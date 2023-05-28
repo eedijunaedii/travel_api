@@ -1,7 +1,7 @@
 # travel_api
 tugas travel api alkademi
 
-![a](signin.png)
+![a](./travel_api/signin.png)
 ![b](signup.png)
 ![c](db_terminal.png)
 ![d](db_destination.png)

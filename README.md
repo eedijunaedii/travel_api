@@ -1,10 +1,10 @@
 # travel_api
 tugas travel api alkademi
 
-![](signin.png)
-![](signup.png)
-![](db_terminal.png)
-![](db_destination.png)
-![](menampilkan_order.png)
-![](db_order.png)
-![](order.png)
+![a](signin.png)
+![b](signup.png)
+![c](db_terminal.png)
+![d](db_destination.png)
+![e](menampilkan_order.png)
+![f](db_order.png)
+![g](order.png)
